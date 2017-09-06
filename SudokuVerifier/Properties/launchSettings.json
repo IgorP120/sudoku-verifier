@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SudokuVerifier": {
+      "commandName": "Project",
+      "commandLineArgs": "c:\\\\tak\\\\input_sudoku.txt"
+    }
+  }
+}
